@@ -1,0 +1,36 @@
+OASIZ_copy_tweet_url
+====================
+
+ツイートの URL を取得するコマンドを提供します。
+
+Usage:
+------
+
+ツイートを右クリックし、「Copy tweet URL」 を選択してください。クリップボードにツイート URL をコピーします。。
+
+
+Install:
+--------
+
+以下のコマンドをターミナルで実行し、 mikutter を再起動してください。
+
+~~~ { .sh }
+$ mkdir -p ~/.mikutter/plugin
+$ cd ~/.mikutter/plugin
+$ git clone git://github.com/mikoto2000/mikutter_voicetext.git oasiz_copy_tweet_url
+~~~
+
+
+License:
+--------
+
+Copyright (C) 2015 mikoto2000
+
+This software is released under the MIT License, see LICENSE
+
+このソフトウェアは MIT ライセンスの下で公開されています。 LICENSE を参照してください。
+
+Author:
+-------
+
+mikoto2000 <mikoto2000@gmail.com>

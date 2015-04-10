@@ -1,0 +1,9 @@
+---
+slug: :oasiz_copy_tweet_url
+depends:
+  mikutter: 3.0.4
+  plugin: []
+version: '1.0'
+author: mikoto2000
+name: oasiz_copy_tweet_url
+description: ツイート URL を取得する
